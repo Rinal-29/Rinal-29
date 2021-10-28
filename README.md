@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Afrinal Hakim
-- 👀 I’m interested in Mobile Dev Using Flutter
+- 👀 I’m interested in mobile dev using flutter
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on my github pages or my s
+- 💞️ I’m looking to collaborate on my github pages or my social media
 - 📫 How to reach me on ig: @muhafrinal
 
 <!---
