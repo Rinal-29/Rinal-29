@@ -2,7 +2,7 @@
 I'm a fairly curious person.
 
 - 👀 I’m interested in mobile dev using flutter
-- 🌱 I’m currently learning flutter and laravel
+- 🌱 I’m currently learning flutter and laravel 8
 - 💞️ I’m looking to collaborate on my github pages or my social media
 
 ## Get in touch
@@ -13,4 +13,3 @@ I'm a fairly curious person.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinal-29&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🥂 Cheers!
