@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Afrinal Hakim
-- 👀 I’m interested in mobile dev using flutter
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on my github pages or my social media
-- 📫 How to reach me on ig: @muhafrinal
+### Hi there, I'm Afrinal Hakim! 👋
+I'm a fairly curious person.
 
-<!---
-Rinal-29/Rinal-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in mobile dev using flutter
+- 🌱 I’m currently learning flutter and laravel
+- 💞️ I’m looking to collaborate on my github pages or my social media
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/muhammadafrinal/
+- Instagram: https://www.instagram.com/muhafrinal/
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rinal-29&theme=github_dark&show_icons=true" alt="afrinal" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinal-29&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+🥂 Cheers!
